@@ -24,6 +24,12 @@ Neste repositório, você encontrará todos os arquivos necessários para constr
 
 ---
 
+## Link para a página
+
+* [Projeto android](https://joaomiranda01.github.io/projeto-androide/)
+
+---
+
 ## Onde me encontrar
 
 * [LinkedIn](https://www.linkedin.com/in/joão-victor-praxedes-de-miranda-189246354)
